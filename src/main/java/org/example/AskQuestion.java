@@ -7,7 +7,7 @@ public class AskQuestion {
 
         Scanner scanner = new Scanner(System.in);
 
-        String question = "What is your name?";
+        String question = "What is your Name?";
 
         System.out.println(question);
 
